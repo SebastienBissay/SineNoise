@@ -1,1 +1,1 @@
-{"Parameters":{"SEED":11}}
+{"Parameters":{"NUMBER_OF_ITERATIONS":100000,"MAX_RADIUS":400.0,"STROKE_COLOR":{"red":15.0,"green":5.0,"blue":5.0,"alpha":10.0},"SEED":11,"WIDTH":1000,"HEIGHT":1000,"NOISE_SCALE":0.01,"MAX_LENGTH":100,"BACKGROUND_COLOR":{"red":240.0,"green":240.0,"blue":240.0,"alpha":255.0}}}
